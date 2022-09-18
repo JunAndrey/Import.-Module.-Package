@@ -4,5 +4,5 @@ def get_employees():
     print(F' {a}  Hello, peoples!')
 
 
-if __name__ == '__main__':
-    get_employees()
+
+ 
